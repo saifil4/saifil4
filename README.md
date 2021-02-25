@@ -2,7 +2,7 @@
 
 ### 👋Hello! My name is Saifil Momin and I am a Front End Developer who on his way to become a Full stack Developer.
 
-- 🔭 I’m currently working on React, Angular and many more.
+- 🔭 I’m currently working on React.
 - 🌱 I’m currently learning CSS grid, NodeJS and MongoDB.
 - 👯 I’m looking to collaborate on any interesting project you think i can contribute to.
 - 🤔 I’m looking for help with CSS grid
