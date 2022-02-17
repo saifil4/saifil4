@@ -1,6 +1,6 @@
 
 
-### 👋Hello! My name is Saifil Momin and I am a Front End Developer who on his way to become a Full stack Developer.
+### 👋Hello! My name is Saifil Momin and I am a Software Developer
 
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning Svelte and Express
